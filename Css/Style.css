@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-size: 24px;
+    margin-bottom: 1rem;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.locations {
+    margin-top: 2rem;
+}
+.location {
+    margin-bottom: 1rem;
+}
+.location h2 {
+    font-size: 20px;
+}
+.location p {
+    font-size: 14px;
+}
